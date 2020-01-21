@@ -2,14 +2,13 @@
 
 Analysis of large buyer payments to suppliers in the UK from 2017 until December 2019.
 
-## Background
-#### From the description [on this kaggle page](https://www.kaggle.com/saikiran0684/payment-practices-of-uk-buyers), 
+## Background - from the description [on this kaggle page](https://www.kaggle.com/saikiran0684/payment-practices-of-uk-buyers), 
 
-> A large business is a company or limited liability partnership that has at least two of the following: £36 million in turnover, or £18 million on its balance sheet, or 250 employees.
+A large business is a company or limited liability partnership that has at least two of the following: £36 million in turnover, or £18 million on its balance sheet, or 250 employees.
 
-> UK's modest-sized enterprises are currently owed £26 billion in overdue payments, according to research by payments processing company Bacs. On average, the 307 large businesses that filed payment reports to the UK government met invoice payments late 71 % of the time. 
+UK's modest-sized enterprises are currently owed £26 billion in overdue payments, according to research by payments processing company Bacs. On average, the 307 large businesses that filed payment reports to the UK government met invoice payments late 71 % of the time. 
 
-The dataset contains records from 2017 onwards till Dec 2019. Each row of data contains:
+Each row of data contains:
 - The reporting period (start date and end date or the duration for which the buyer company has to report the payment numbers)
 - filing information (When did the company file the records)
 - Whether Payments were made during the reporting period
